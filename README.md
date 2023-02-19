@@ -32,13 +32,11 @@ To run this project on your system.
   ```
 * Master login URL
 * Username:roshi@gmail.com Password : 123456 (Use this login for better interaction as master or you can create yours)
-  ```sh
- http://localhost:3000/MasterLogin
-  ```
- 
+
+```sh
+http://localhost:3000/MasterLogin
+```
 * Student login URL
 * Username:goku889@gmail.com Password : 123456 (Use this login for better interaction as student or you can create yours)
-
-  ```sh
-  http://localhost:3000/StudentLogin
-  ```
+```sh
+http://localhost:3000/StudentLogin
