@@ -44,7 +44,7 @@ export default function StudentLogin() {
             </div>
             <div className='input'>
                 
-                <input className='credentialinput' onChange={(e)=>setPassword(e.target.value)} placeholder='Enter your Password'/>
+                <input className='credentialinput' type='password' onChange={(e)=>setPassword(e.target.value)} placeholder='Enter your Password'/>
             </div>    
         </div>
         <div>
