@@ -11,6 +11,7 @@ Built With
 To run this project on your system.
 * MongoDB atlas cloud database is used . So dataset in cloud . No need to import .
 * Back-end is hosted in vercel and Front-end is hosted in firebase .
+* Deployed link - https://assignment-32ad1.web.app/
 * Clone the repository 
   ```sh
   git clone https://github.com/Ganeshguru5/Sprittle_Assignmnet.git
