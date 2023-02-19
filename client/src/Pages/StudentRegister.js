@@ -50,7 +50,7 @@ function handleRegister(){
             </div>
             <div className='input'>
                 
-                <input className='credentialinput' onChange={(e)=>setpassword(e.target.value)} placeholder='Enter your Password'/>
+                <input className='credentialinput' type='password' onChange={(e)=>setpassword(e.target.value)} placeholder='Enter your Password'/>
             </div> 
             <div className='input'>
                 
